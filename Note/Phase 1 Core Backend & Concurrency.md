@@ -1,10 +1,9 @@
 URLs:
 
-https://abc.com/tim?video=123
+1. https://abc.com -🟦- /tim -🟩- ?video=123🟧
+2. https://abd.net-🟦-/courses/python -🟩- ?utm_source=youtube&page=2
 
-https://abd.net/courses/python?utm_source=youtube &page=2
-
-Domain               Path/Endpoint                    Query Params
+Domain-----------Path/Endpoint-------- Query Params
 
 # Request/Response
 
@@ -22,9 +21,9 @@ Response Comp:
 - Headers
 
 <aside>
-💡
-
-Us users find a website (aka client aka frontend), website sends request to API server, API server sends back response 
+ 
+>💡Us users find a website (aka client aka frontend), website sends request to API server, API server sends back response 
+>
 
 </aside>
 
@@ -90,36 +89,34 @@ response comps:
 ```
 
 <aside>
-💡
-
-“Inject” = FastAPI automatically gives your function the value instead of you passing it manually
+ 
+> 💡 “Inject” = FastAPI automatically gives your function the value instead of you passing it manually
+>
 
 </aside>
 
 <aside>
-💡
-
-Event Loop: runs continuously in a loopManages and executes tasks (coroutines)Switches between tasks when they are waiting (I/O)
-
+ 
+>💡Event Loop: 
 - Runs continuously in a loop
 - Manages and executes tasks (coroutines)
 - Switches between tasks when they are waiting (I/O)
+>
+ 
 </aside>
 
-> IO mean your program is **talking to something outside itself**.
-ex: Calling an API (`requests`, HTTP), Querying DB (`SELECT * FROM users`),Reading/writing files,Sleep, external service response
+>💡IO mean your program is **talking to something outside itself**.
+ex: Calling an API (`requests`, HTTP), Querying DB (`SELECT * FROM users`), Reading/writing files, Sleep, external service response
 > 
 
 <aside>
-💡
-
-Keyword arguments = passing values using parameter names
-
+ 
+>💡Keyword arguments = passing values using parameter names
+>
+ 
 ex: greet(name="Hoang", age=25), #order doesnt matter
 
-ex: async def read_items(*, item_id: int = Path(..., title="The ID of the item to get", ge=1), 
-
-q: str):    # *: forces everything after to be keyword arguments
+ex: async def read_items(*, item_id: int = Path(..., title="The ID of the item to get", ge=1), q: str):    # *: forces everything after to be keyword arguments
 
 </aside>
 
