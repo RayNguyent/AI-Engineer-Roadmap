@@ -29,9 +29,9 @@ Structured learning roadmap based on phases and topics.
 <details>
 <summary>📄 Data Validation & Document Parsing</summary>
 
-- [ ] Pydantic models
-- [ ] Input validation
-- [ ] File parsing (PDF, JSON, text)
+- [x] Pydantic models
+- [x] Input validation
+- [x] File parsing (PDF, JSON, text)
 
 </details>
 
@@ -251,8 +251,8 @@ Structured learning roadmap based on phases and topics.
 
 ## 📌 Progress Tracker
 
-- ✅ Phase 1: In Progress
-- ⏳ Phase 2: Not Started
+- ✅ Phase 1: Done
+- ⏳ Phase 2: In Progress
 - ⏳ Phase 3: Not Started
 - ⏳ Phase 4: Not Started
 - ⏳ Phase 5: Not Started
