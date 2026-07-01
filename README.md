@@ -42,9 +42,9 @@ Structured learning roadmap based on phases and topics.
 <details>
 <summary>🧠 Prompt Engineering & Hierarchy</summary>
 
-- [ ] System vs user prompts
-- [ ] Prompt structuring
-- [ ] Chain-of-thought basics
+- [x] System vs user prompts
+- [x] Prompt structuring
+- [x] Chain-of-thought basics
 
 </details>
 
