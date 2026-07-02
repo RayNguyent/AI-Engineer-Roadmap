@@ -51,9 +51,9 @@ Structured learning roadmap based on phases and topics.
 <details>
 <summary>📦 Structured JSON Outputs</summary>
 
-- [ ] JSON schema outputs
-- [ ] Validation of responses
-- [ ] Parsing model outputs safely
+- [x] JSON schema outputs
+- [x] Validation of responses
+- [x] Parsing model outputs safely
 
 </details>
 
