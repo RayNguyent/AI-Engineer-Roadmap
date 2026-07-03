@@ -60,9 +60,9 @@ Structured learning roadmap based on phases and topics.
 <details>
 <summary>💰 Context Economics & Token Strategy</summary>
 
-- [ ] Token limits
-- [ ] Prompt compression
-- [ ] Cost optimization
+- [x] Token limits
+- [x] Prompt compression
+- [x] Cost optimization
 
 </details>
 
