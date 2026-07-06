@@ -73,9 +73,9 @@ Structured learning roadmap based on phases and topics.
 <details>
 <summary>📥 Ingestion Pipelines & Chunking Strategy</summary>
 
-- [ ] Data ingestion flow
-- [ ] Chunking strategies
-- [ ] Metadata handling
+- [x] Data ingestion flow
+- [x] Chunking strategies
+- [x] Metadata handling
 
 </details>
 
