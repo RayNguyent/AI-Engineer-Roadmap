@@ -82,16 +82,16 @@ Structured learning roadmap based on phases and topics.
 <details>
 <summary>🔎 Vector Search & Hybrid Retrieval</summary>
 
-- [ ] Embeddings
-- [ ] Vector DB basics
-- [ ] Hybrid search (keyword + vector)
+- [x] Embeddings
+- [x] Vector DB basics
+- [x] Hybrid search (keyword + vector)
 
 </details>
 
 <details>
 <summary>🥇 Reranking & Citation Generation</summary>
 
-- [ ] Reranking results
+- [x] Reranking results
 - [ ] Source attribution
 - [ ] Citation formatting
 
