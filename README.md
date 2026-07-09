@@ -92,8 +92,8 @@ Structured learning roadmap based on phases and topics.
 <summary>🥇 Reranking & Citation Generation</summary>
 
 - [x] Reranking results
-- [ ] Source attribution
-- [ ] Citation formatting
+- [x] Source attribution
+- [x] Citation formatting
 
 </details>
 
@@ -104,9 +104,9 @@ Structured learning roadmap based on phases and topics.
 <details>
 <summary>🛠️ Tool Schema & Permissions Registry</summary>
 
-- [ ] Tool definition schema
-- [ ] Role-based permissions
-- [ ] Tool registry design
+- [x] Tool definition schema
+- [x] Role-based permissions
+- [x] Tool registry design
 
 </details>
 
