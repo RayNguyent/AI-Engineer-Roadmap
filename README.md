@@ -113,18 +113,18 @@ Structured learning roadmap based on phases and topics.
 <details>
 <summary>✅ Argument Validation & Resilience</summary>
 
-- [ ] Input validation
-- [ ] Error handling
-- [ ] Retry strategies
+- [x] Input validation
+- [x] Error handling
+- [x] Retry strategies
 
 </details>
 
 <details>
 <summary>🧑‍💻 Human-in-the-Loop & MCP Gates</summary>
 
-- [ ] Manual approval flows
-- [ ] MCP checkpoints
-- [ ] Safety gates
+- [x] Manual approval flows
+- [x] MCP checkpoints
+- [x] Safety gates
 
 </details>
 
@@ -135,18 +135,18 @@ Structured learning roadmap based on phases and topics.
 <details>
 <summary>🔗 Orchestration & Graph Patterns</summary>
 
-- [ ] Workflow graphs
-- [ ] Task orchestration
-- [ ] Multi-step pipelines
+- [x] Workflow graphs
+- [x] Task orchestration
+- [x] Multi-step pipelines
 
 </details>
 
 <details>
 <summary>🤖 Self-Correction & Multi-Agent Tracks</summary>
 
-- [ ] Agent collaboration
-- [ ] Self-reflection loops
-- [ ] Task delegation
+- [x] Agent collaboration
+- [x] Self-reflection loops
+- [x] Task delegation
 
 </details>
 
